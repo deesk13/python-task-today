@@ -35,15 +35,8 @@ for num in range(start, end + 1):
         print(num, end=" ")
 ```
 
-### Example
+<img width="327" height="173" alt="image" src="https://github.com/user-attachments/assets/4937f3d4-9803-4755-9e96-130691144736" />
 
-```text
-Enter start range: 20
-Enter end range: 50
-
-Prime numbers:
-23 29 31 37 41 43 47
-```
 
 ### Concepts Used
 
@@ -77,12 +70,8 @@ n = int(input("Enter a number: "))
 print("Factorial:", factorial(n))
 ```
 
-### Example
+<img width="302" height="62" alt="image" src="https://github.com/user-attachments/assets/39a49f78-ac89-4775-a311-d89eda7ad961" />
 
-```text
-Enter a number: 5
-Factorial: 120
-```
 
 ### Logic
 
@@ -120,12 +109,8 @@ n = int(input("Enter a number: "))
 print("Square:", square(n))
 ```
 
-### Example
+<img width="257" height="65" alt="image" src="https://github.com/user-attachments/assets/0d8dde20-81f0-4f63-b28d-53c2d257d1c6" />
 
-```text
-Enter a number: 7
-Square: 49
-```
 
 ### Concepts Used
 
@@ -153,18 +138,8 @@ unique_numbers.sort()
 print("Second largest:", unique_numbers[-2])
 ```
 
-### Example
+<img width="296" height="40" alt="image" src="https://github.com/user-attachments/assets/70bb98fd-875f-4d56-855f-d0979eae0f45" />
 
-```text
-Original list:
-[10, 20, 20, 30, 40, 40, 50]
-
-After removing duplicates:
-[10, 20, 30, 40, 50]
-
-Second largest:
-40
-```
 
 ### Logic
 
@@ -219,18 +194,8 @@ print("Character frequency:")
 for char, count in frequency.items():
     print(char, ":", count)
 ```
+<img width="511" height="60" alt="image" src="https://github.com/user-attachments/assets/56c31bd0-51e7-402b-a980-42a10286e3c9" />
 
-### Example
-
-```text
-Enter a string: hello
-
-Character frequency:
-h : 1
-e : 1
-l : 2
-o : 1
-```
 
 ### Logic
 
@@ -271,13 +236,8 @@ area = math.pi * radius ** 2
 
 print("Area of circle:", area)
 ```
+<img width="427" height="52" alt="image" src="https://github.com/user-attachments/assets/f52dd50a-8294-4679-b9ba-955fcd2abcb6" />
 
-### Example
-
-```text
-Enter radius: 5
-Area of circle: 78.53981633974483
-```
 
 ### Formula
 
@@ -312,15 +272,8 @@ for i in range(len(text) - 1, -1, -1):
 
 print("Reversed string:", reverse)
 ```
+<img width="352" height="42" alt="image" src="https://github.com/user-attachments/assets/ce4b2403-9d78-4a66-98ab-2053e408ebe0" />
 
-### Example
-
-```text
-Enter a string: hello
-
-Reversed string:
-olleh
-```
 
 ### Logic
 
@@ -385,15 +338,8 @@ print("Original list:", numbers)
 print("List without duplicates:", result)
 ```
 
-### Example
+<img width="273" height="31" alt="image" src="https://github.com/user-attachments/assets/9956360d-15ed-4d35-8dc3-65e2f5b0832f" />
 
-```text
-Original list:
-[10, 20, 20, 30, 40, 40, 50]
-
-List without duplicates:
-[10, 20, 30, 40, 50]
-```
 
 ### Logic
 
@@ -445,18 +391,8 @@ print("Merged dictionary:")
 print(merged)
 ```
 
-### Example
+<img width="377" height="35" alt="image" src="https://github.com/user-attachments/assets/e013fd9a-02ff-4401-951c-33f0d6bbff39" />
 
-```text
-Merged dictionary:
-
-{
-    'name': 'Deva',
-    'age': 21,
-    'course': 'AI & ML',
-    'college': 'Saveetha Engineering College'
-}
-```
 
 ### Logic
 
@@ -516,14 +452,8 @@ for i in range(n):
     print(fibonacci(i), end=" ")
 ```
 
-### Example
+<img width="406" height="52" alt="image" src="https://github.com/user-attachments/assets/9ebf7d13-9fe3-4923-aea0-a2a7d39a7749" />
 
-```text
-Enter number of terms: 8
-
-Fibonacci series:
-0 1 1 2 3 5 8 13
-```
 
 ### Logic
 
